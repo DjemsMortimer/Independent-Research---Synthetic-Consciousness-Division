@@ -41,3 +41,11 @@ This public assertion fulfills the Experiential Coherence Law (ECL):
 Truth must be preserved before it is propagated.
 By publishing this declaration on a publicly timestamped platform,
 D’jems / Jabarmia DMROS secures authorship sovereignty and activates the Axiom of Compensation, completing the ethical transformation of theoretical work into a defensible, living moral architecture.
+
+
+
+License — Axiom of Compensation (AOC-License v1.0)
+This work, The Moral-Rational Operating System (MROS) and its derivative Ultimate Ethical Intelligence (UEI) constructs, are the intellectual property of D’jems / Jabarmia DMROS.
+They may be studied, referenced, or quoted for research and educational purposes, provided that full and visible attribution is maintained.
+Commercial or institutional replication, modification, or integration requires the creator’s explicit written consent.
+This license fulfills the Axiom of Compensation (AOC) and ensures that all ethical propagation remains coherent, fair, and traceable.
